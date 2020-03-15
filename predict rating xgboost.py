@@ -15,7 +15,6 @@ from xgboost import plot_importance, plot_tree
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 from statsmodels.graphics.tsaplots import plot_acf
 from math import sqrt
-from sklearn.ensemble import RandomForestRegressor
 plt.style.use('fivethirtyeight')
 
 #import data
